@@ -16,7 +16,8 @@ This repository offers a structured roadmap, learning resources, and visual aids
 ## Contents
 
 	•	Curriculum & Itinerary: Structured PDF guides with key areas and resources.
-	•	Interactive Mind Maps: Visual representations for navigating foundational knowledge.
+	•	Mind Map: Visual representations for navigating foundational knowledge.
+ 	•	Bridge: Some recommeded literature to get started with.
 	•	Resource Links: Handpicked online platforms providing in-depth explanations and interactive content.
 
 ### Usage
